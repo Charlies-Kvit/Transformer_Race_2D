@@ -1,2 +1,2 @@
 # Transformer_Race_2D
-Race on pygame from Butovic Gleb and Alekhin Roman
+Race on pygame from Butovich Gleb and Alekhin Roman
